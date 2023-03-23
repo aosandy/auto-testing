@@ -1,3 +1,5 @@
+package ok;
+
 import org.openqa.selenium.By;
 
 import static com.codeborne.selenide.Selenide.$;
